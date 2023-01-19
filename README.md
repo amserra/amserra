@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amserra and I'm from Portugal 🇵🇹
-- 📍 Currently I am finishing my Master's degree in Software Engineering
+- 📍 I am currently working at @Cleanwatts
 - 👀 I’m interested in building software that helps people in their lives
 - 🌱 I like to learn new technologies
 - 📫 You can reach me via email at almateser@gmail.com
